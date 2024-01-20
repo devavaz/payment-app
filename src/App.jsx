@@ -2,6 +2,7 @@ import React from 'react'
 import styles from './style'
 
 import { Navbar, Hero, Stats, Business, Billing, CardDeal, Testimonials, Clients, CTA, Footer } from './components'
+import GetStarted from './components/GetStarted'
 
 const App = () => {
   return (
